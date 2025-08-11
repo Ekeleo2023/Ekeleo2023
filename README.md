@@ -1,78 +1,90 @@
-# 👩🏽‍💻 Ojoma Ekele – Junior Cybersecurity Analyst
+# 👩🏽‍💻 Ojoma Ekele – Cybersecurity Analyst
 
-Hi there! 👋 I'm **Ojoma Ekele**, a passionate and hands-on **Junior Cybersecurity Analyst** with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
+Hello, I am **Ojoma Ekele**, a passionate and results-driven Cybersecurity Analyst with 2+ years of experience safeguarding both cloud and on-premises environments.
+I specialize in threat detection, vulnerability management, and continuous security monitoring, with a focus on delivering secure-by-design solutions.
 
----
-
-## 🛡️ My Cybersecurity Projects
-
-Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
-
-### 🧪 Lab Environments
-- ✅ **Setting Up a Virtual Home Lab** (on macOS and Windows)
-- ☁️ **Cloud Home Lab Setup** (for scalable, remote testing)
-
-### 🔍 Reconnaissance & Threat Analysis
-- 🌐 **Footprinting** – Passive and active info gathering
-- 🐟 **Phishing Email Analysis** – Identifying spoofed domains, headers, and payloads
-- 🧫 **Vulnerability Assessment** – Using tools like OpenVAS, Nessus, and Nmap
-
-### 🚨 Threat Detection & Monitoring
-- 📊 **SIEM Setup with Wazuh** – Centralized log analysis and alerting
-- 🔎 **Elastic SIEM Setup** – Kibana dashboards and threat hunting
-- 🛡️ **Suricata IDS Setup** – Intrusion detection using signature-based rules
-- 🧲 **Honeypot Deployment** – Detecting and analyzing attacker behavior
-
-### 🔬 Malware & Exploit Analysis
-- 🧾 **Malicious PDF Analysis** – Dissecting payloads and embedded scripts
-- 🧟 **Malware Analysis** – Using tools like Ghidra and VirusTotal
-
-### 🔐 Network Security
-- 🔒 **Setting Up a Personal VPN Server** – Secure remote connections using WireGuard/OpenVPN
+This GitHub repository is a curated collection of my hands-on lab projects, technical simulations, and reference guides, showcasing my ability to apply security principles in real-world scenarios.
+Each project reflects my commitment to proactive defense, operational excellence, and continuous learning in the rapidly evolving cybersecurity landscape.
 
 ---
 
-## 🧰 Tools & Skills
+# 🛡 Cybersecurity Project Highlights
 
-- 🖥️ VirtualBox, VMware, AWS Free Tier
-- 🧪 Wireshark, Nmap, Metasploit
-- 🔐 Wazuh, Suricata, Elastic Stack
-- 🐧 Linux, macOS, Windows
-- 📄 Markdown, Git, GitHub
+A showcase of hands-on cybersecurity projects built to simulate real-world attack and defense scenarios.
+Leveraging enterprise-grade tools and security frameworks, these labs demonstrate my ability to design, secure, and assess complex environments.
+
+## 📂 Lab Foundations
+-  **Setting Up a Virtual Home Lab** (on macOS and Windows)
+-  **Cloud Home Lab Setup** (for scalable, remote testing)
+
+## 🔑 Identity & Access Security
+- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+
+## 📊 Vulnerability & Risk Management
+- **Security Policy Development** – Acceptable Use, Password, and Access Control policies
+- **Vulnerability Assessment** – Network and web app scans using **Nmap**, **Nessus**, and **Nikto**
+- **Risk Assessment & CIA Impact Mapping** – Risk matrix creation and treatment recommendations
+
+## 📡 Detection & Monitoring
+- **Network Monitoring & Log Analysis** – Dashboards in **Security Onion** and **Splunk**
+- **Linux Permissions Audit** – Identifying and fixing misconfigurations & SUID issues
+- **Suricata IDS Deployment** – Signature-based intrusion detection setup
+- **Honeypot Deployment** – Capturing and analyzing attacker behavior
+
+## 🎯 Threat Hunting & Framework Mapping
+- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+
+## 🛡 Social Engineering Defence
+- **Phishing Attack Simulation** – Campaign metrics via **GoPhish** or **Zphisher**
+- **Phishing Email Forensics** – Header analysis with SPF, DKIM, and DMARC validation
+
+## ⚔ Offensive Security Simulations
+- **SQL Injection & DDoS Simulation** – Exploitation with **sqlmap** and slowloris stress tests
+
+## 🐛 Malware & Exploit Analysis
+- **Malware Static & Dynamic Analysis** – `strings`, **PE-Studio**, **Cuckoo Sandbox**
+- **Malicious PDF Analysis** – Payload extraction and script dissection
 
 ---
 
-## 📁 Featured Repositories
+## 🛠 Tools & Skills
+**Platforms:** VirtualBox, VMware, AWS Free Tier  
+**Networking & Analysis:** Wireshark, Nmap, Nessus, Nikto, sqlmap  
+**Security Monitoring:** Wazuh, Suricata, Elastic Stack, Splunk  
+**Operating Systems:** Kali Linux, Windows Server, Ubuntu, pfSense  
+**Development & Docs:** Git, GitHub, Markdown
 
-| Project | Description | Link |
+---
+
+## 📌 Featured Repositories
+
+| Folder | Description | Link |
 |--------|-------------|------|
-| `virtual-home-lab` | Setting up a local cyber lab on macOS/Windows | [View Repo](#) |
-| `cloud-home-lab` | Building a cloud-based home lab for cybersecurity practice | [View Repo](#) |
-| `footprinting-techniques` | Info gathering via open-source intelligence and active scanning | [View Repo](#) |
-| `vulnerability-assessment` | Scan and assess network vulnerabilities using security tools | [View Repo](#) |
-| `phishing-email-analysis` | Analyzing phishing emails and spotting key red flags | [View Repo](#) |
-| `wazuh-siem-lab` | End-to-end guide for setting up Wazuh SIEM | [View Repo](#) |
-| `elastic-siem-setup` | Configuring Elastic Stack for threat hunting | [View Repo](#) |
-| `suricata-ids-lab` | Step-by-step IDS setup using Suricata | [View Repo](#) |
-| `honeypot-deployment` | Deceptive traps to attract and analyze cyber attackers | [View Repo](#) |
-| `pdf-malware-analysis` | Reverse engineering malicious PDFs | [View Repo](#) |
-| `malware-analysis-basics` | Using Ghidra and online sandboxes to inspect malware | [View Repo](#) |
-| `vpn-server-setup` | Create a personal VPN on the cloud | [View Repo](#) |
+| `01-home-lab` | Multi-VM cybersecurity lab setup | [View Repo](#) |
+| `02-ad-deployment` | Installing and hardening Active Directory | [View Repo](#) |
+| `03-ad-enum-privesc` | AD enumeration & privilege escalation | [View Repo](#) |
+| `04-security-policy-dev` | Security policy creation (AUP, password, ACL) | [View Repo](#) |
+| `05-vulnerability-assessment` | Network/web scanning with Nessus & Nmap | [View Repo](#) |
+| `06-network-monitoring` | Dashboards in Security Onion & Splunk | [View Repo](#) |
+| `07-risk-assessment` | CIA mapping & risk treatment | [View Repo](#) |
+| `08-mitre-threat-hunt` | ATT&CK-aligned hunting scripts | [View Repo](#) |
+| `09-phishing-simulation` | Lab-based phishing campaign | [View Repo](#) |
+| `10-phishing-email-forensics` | Email header & domain analysis | [View Repo](#) |
+| `11-linux-permissions-audit` | SUID & permission misconfig audit | [View Repo](#) |
+| `12-sqli-ddos-sim` | SQLi exploitation & DDoS tuning | [View Repo](#) |
+| `13-malware-analysis` | Static & dynamic malware triage | [View Repo](#) |
 
 ---
 
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ojomaekele) 
-- ✉️ Email: ojoma.ekele@email.com 
+- ✉️ Email: ojomaekele@gmail.com 
 - 🌐 Portfolio Site (coming soon!)
 
 ---
 
-> _“Cybersecurity is not just a skill — it's a mindset.”_ 
-> – Ojoma Ekele
+> 💡 *"Building resilient systems through precision, automation, and security-first thinking."*
 
-Thanks for visiting my GitHub! Don’t forget to ⭐ star any repo you find helpful 💻🔥
-
-
+Thank you for visiting my GitHub! If any project here helps your work, please ⭐ the repo.
 
