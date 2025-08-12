@@ -60,7 +60,7 @@ Leveraging enterprise-grade tools and security frameworks, these labs demonstrat
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| `01-home-lab` | Multi-VM cybersecurity lab setup | [View Repo](#) |
+| `01-home-lab` | Multi-VM cybersecurity lab setup | [View Repo](https://github.com/Ekeleo2023/LOCAL-VIRTUAL-LAB-SET-UP.git) |
 | `02-ad-deployment` | Installing and hardening Active Directory | [View Repo](#) |
 | `03-ad-enum-privesc` | AD enumeration & privilege escalation | [View Repo](#) |
 | `04-security-policy-dev` | Security policy creation (AUP, password, ACL) | [View Repo](#) |
