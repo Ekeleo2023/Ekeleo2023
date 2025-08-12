@@ -78,7 +78,7 @@ Leveraging enterprise-grade tools and security frameworks, these labs demonstrat
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ojomaekele) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/o-ekele-132885129/) 
 - ✉️ Email: ojomaekele@gmail.com 
 - 🌐 Portfolio Site (coming soon!)
 
