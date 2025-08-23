@@ -36,7 +36,7 @@ Leveraging enterprise-grade tools and security frameworks, these labs demonstrat
 
 ## 🛡 Social Engineering Defence
 - **Phishing Attack Simulation** – Campaign metrics via **GoPhish** or **Zphisher**
-- **Phishing Email Forensics** – Header analysis with SPF, DKIM, and DMARC validation
+- **Phishing Email Forensics** – Header analysis with SPF, DKIM, and DMARC validation. [View Repo](https://github.com/Ekeleo2023/Phishing-Email-Forensics-Header-analysis-with-SPF-DKIM-and-DMARC-validation)
 
 ## ⚔ Offensive Security Simulations
 - **SQL Injection & DDoS Simulation** – Exploitation with **sqlmap** and slowloris stress tests
