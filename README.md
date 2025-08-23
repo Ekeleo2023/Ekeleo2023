@@ -35,7 +35,7 @@ Leveraging enterprise-grade tools and security frameworks, these labs demonstrat
 - **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
 
 ## 🛡 Social Engineering Defence
-- **Phishing Attack Simulation** – Campaign metrics via **GoPhish** or **Zphisher**
+- **Phishing Attack Simulation** – Campaign metrics via **GoPhish** or **Zphisher**. [View Repo](https://github.com/Ekeleo2023/Phishing-Attack-Simulation-Campaign-metrics-via-GoPhish-or-Zphisher.git)
 - **Phishing Email Forensics** – Header analysis with SPF, DKIM, and DMARC validation. [View Repo](https://github.com/Ekeleo2023/Phishing-Email-Forensics-Header-analysis-with-SPF-DKIM-and-DMARC-validation)
 
 ## ⚔ Offensive Security Simulations
