@@ -21,7 +21,7 @@ Leveraging enterprise-grade tools and security frameworks, these labs demonstrat
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs [View Repo](https://github.com/Ekeleo2023/ACTIVE-DIRECTORY-SIMULATION?tab=readme-ov-file#active-directory-simulation--cybertech-solutions)
 
 ## 📊 Vulnerability & Risk Management
-- **Security Policy Development** – Acceptable Use, Password, and Access Control policies
+- **Security Policy Development** – Acceptable Use, Password, and Access Control policies. [View Repo](https://github.com/Ekeleo2023/Security-Policy-Development-Acceptable-Use-Password-and-Access-Control-policies..git)
 - **Vulnerability Assessment** – Network and web app scans using **Nmap**, **Nessus**, and **Nikto**. [View Repo](https://github.com/Ekeleo2023/Vulnerability-Assessment-Network-scan-with-Nmap.git)
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix creation and treatment recommendations
 
